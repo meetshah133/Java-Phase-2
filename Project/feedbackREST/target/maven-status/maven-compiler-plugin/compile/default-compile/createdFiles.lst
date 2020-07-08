@@ -1,0 +1,5 @@
+com/feedbackREST/model/Feedback.class
+com/feedbackREST/dao/FeedbackDAO.class
+com/feedbackREST/FeedbackApplication.class
+com/feedbackREST/controller/FeedbackController.class
+com/feedbackREST/repository/FeedbackRepository.class
